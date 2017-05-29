@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Body>
+      <ns2:getStationsResponse xmlns:ns2="http://wsiv.ratp.fr">
+         <ns2:return>
+            <ns1:ambiguityMessage xmlns:ns1="http://wsiv.ratp.fr/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+            <ns1:ambiguousLines xmlns:ns1="http://wsiv.ratp.fr/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+            <argumentLine xmlns="http://wsiv.ratp.fr/xsd">
+               <code>B</code>
+               <codeStif>100111002</codeStif>
+               <id>RB</id>
+               <image>p_rer_b.gif</image>
+               <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+               <realm>r</realm>
+               <reseau>
+                  <code>rer</code>
+                  <id>2-rer</id>
+                  <image>p_rer.gif</image>
+                  <name>RER</name>
+               </reseau>
+            </argumentLine>
+            <ns1:distances xmlns:ns1="http://wsiv.ratp.fr/xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1673</id>
+                  <name>Saint-Remy-les-Chevreuse</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2483</id>
+                  <name>Saint-Remy-les-Chevreuse</name>
+               </geoPointR>
+               <id>23</id>
+               <idsNextA>24</idsNextA>
+               <idsNextR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Saint Remy les Chevreuse</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1988</id>
+                  <name>Courcelle-sur-Yvette</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2178</id>
+                  <name>Courcelle-sur-Yvette</name>
+               </geoPointR>
+               <id>24</id>
+               <idsNextA>25</idsNextA>
+               <idsNextR>23</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Courcelle Sur Yvette</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2078</id>
+                  <name>Gif-sur-Yvette</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2127</id>
+                  <name>Gif-sur-Yvette</name>
+               </geoPointR>
+               <id>25</id>
+               <idsNextA>26</idsNextA>
+               <idsNextR>24</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Gif Sur Yvette</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1914</id>
+                  <name>La Hacquiniere</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2239</id>
+                  <name>La Hacquiniere</name>
+               </geoPointR>
+               <id>26</id>
+               <idsNextA>27</idsNextA>
+               <idsNextR>25</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>La Hacquiniere</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2011</id>
+                  <name>Bures-sur-Yvette</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2130</id>
+                  <name>Bures-sur-Yvette</name>
+               </geoPointR>
+               <id>27</id>
+               <idsNextA>28</idsNextA>
+               <idsNextR>26</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Bures Sur Yvette</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1771</id>
+                  <name>Orsay-Ville</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2381</id>
+                  <name>Orsay-Ville</name>
+               </geoPointR>
+               <id>28</id>
+               <idsNextA>29</idsNextA>
+               <idsNextR>27</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Orsay Ville</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1924</id>
+                  <name>Le Guichet</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2249</id>
+                  <name>Le Guichet</name>
+               </geoPointR>
+               <id>29</id>
+               <idsNextA>30</idsNextA>
+               <idsNextR>28</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Le Guichet</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1865</id>
+                  <name>Lozere</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2332</id>
+                  <name>Lozere</name>
+               </geoPointR>
+               <id>30</id>
+               <idsNextA>31</idsNextA>
+               <idsNextR>29</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Lozere</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1776</id>
+                  <name>Palaiseau Villebon</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2386</id>
+                  <name>Palaiseau Villebon</name>
+               </geoPointR>
+               <id>31</id>
+               <idsNextA>32</idsNextA>
+               <idsNextR>30</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Palaiseau Villebon</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1775</id>
+                  <name>Palaiseau</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2385</id>
+                  <name>Palaiseau</name>
+               </geoPointR>
+               <id>32</id>
+               <idsNextA>15</idsNextA>
+               <idsNextR>31</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Palaiseau</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1809</id>
+                  <name>Massy-Palaiseau</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2348</id>
+                  <name>Massy-Palaiseau</name>
+               </geoPointR>
+               <id>15</id>
+               <idsNextA>16</idsNextA>
+               <idsNextR>32</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Massy Palaiseau</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1810</id>
+                  <name>Massy-Verrieres</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2349</id>
+                  <name>Massy-Verrieres</name>
+               </geoPointR>
+               <id>16</id>
+               <idsNextA>17</idsNextA>
+               <idsNextR>15</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Massy Verrieres</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1853</id>
+                  <name>Les Baconnets</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2320</id>
+                  <name>Les Baconnets</name>
+               </geoPointR>
+               <id>17</id>
+               <idsNextA>18</idsNextA>
+               <idsNextR>16</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Les Baconnets</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1941</id>
+                  <name>Fontaine-Michalon</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2231</id>
+                  <name>Fontaine-Michalon</name>
+               </geoPointR>
+               <id>18</id>
+               <idsNextA>19</idsNextA>
+               <idsNextR>17</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Fontaine Michalon</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2045</id>
+                  <name>Antony</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2095</id>
+                  <name>Antony</name>
+               </geoPointR>
+               <id>19</id>
+               <idsNextA>20</idsNextA>
+               <idsNextR>18</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Antony</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1912</id>
+                  <name>La Croix-de-Berny</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2237</id>
+                  <name>La Croix-de-Berny</name>
+               </geoPointR>
+               <id>20</id>
+               <idsNextA>21</idsNextA>
+               <idsNextR>19</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>La Croix de Berny</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1778</id>
+                  <name>Parc de Sceaux</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2388</id>
+                  <name>Parc de Sceaux</name>
+               </geoPointR>
+               <id>21</id>
+               <idsNextA>12-22</idsNextA>
+               <idsNextR>20</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Parc de Sceaux</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2006</id>
+                  <name>Bourg-la-Reine</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2195</id>
+                  <name>Bourg-la-Reine</name>
+               </geoPointR>
+               <id>12-22</id>
+               <idsNextA>13</idsNextA>
+               <idsNextR>21</idsNextR>
+               <idsNextR>11</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Bourg la Reine</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2059</id>
+                  <name>Bagneux</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2108</id>
+                  <name>Bagneux</name>
+               </geoPointR>
+               <id>13</id>
+               <idsNextA>14</idsNextA>
+               <idsNextR>12-22</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Bagneux</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2047</id>
+                  <name>Arcueil-Cachan</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2097</id>
+                  <name>Arcueil-Cachan</name>
+               </geoPointR>
+               <id>14</id>
+               <idsNextA>8</idsNextA>
+               <idsNextR>13</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Arcueil Cachan</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1921</id>
+                  <name>Laplace</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2246</id>
+                  <name>Laplace</name>
+               </geoPointR>
+               <id>8</id>
+               <idsNextA>7</idsNextA>
+               <idsNextR>14</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Laplace</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1960</id>
+                  <name>Gentilly</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2215</id>
+                  <name>Gentilly</name>
+               </geoPointR>
+               <id>7</id>
+               <idsNextA>6</idsNextA>
+               <idsNextR>8</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Gentilly</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1976</id>
+                  <name>Cite Universitaire</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2166</id>
+                  <name>Cite Universitaire</name>
+               </geoPointR>
+               <id>6</id>
+               <idsNextA>5</idsNextA>
+               <idsNextR>7</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Cite Universitaire</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1998</id>
+                  <name>Denfert-Rochereau</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2187</id>
+                  <name>Denfert-Rochereau</name>
+               </geoPointR>
+               <id>5</id>
+               <idsNextA>4</idsNextA>
+               <idsNextR>6</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Denfert Rochereau</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1650</id>
+                  <name>Port Royal</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2530</id>
+                  <name>Port Royal</name>
+               </geoPointR>
+               <id>4</id>
+               <idsNextA>3</idsNextA>
+               <idsNextR>5</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Port Royal</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1866</id>
+                  <name>Luxembourg</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2333</id>
+                  <name>Luxembourg</name>
+               </geoPointR>
+               <id>3</id>
+               <idsNextA>2</idsNextA>
+               <idsNextR>4</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Luxembourg</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1672</id>
+                  <name>Saint-Michel Notre-Dame</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2482</id>
+                  <name>Saint-Michel Notre-Dame</name>
+               </geoPointR>
+               <id>2</id>
+               <idsNextA>1</idsNextA>
+               <idsNextR>3</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Saint Michel</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1968</id>
+                  <name>Chatelet-Les Halles</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2223</id>
+                  <name>Chatelet-Les Halles</name>
+               </geoPointR>
+               <id>1</id>
+               <idsNextA>SNCF1</idsNextA>
+               <idsNextR>2</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Chatelet</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2077</id>
+                  <name>Gare du Nord</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2126</id>
+                  <name>Gare du Nord</name>
+               </geoPointR>
+               <id>SNCF1</id>
+               <idsNextA>SNCF2</idsNextA>
+               <idsNextR>1</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Gare du Nord</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1918</id>
+                  <name>La Plaine-Stade de France</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2243</id>
+                  <name>La Plaine-Stade de France</name>
+               </geoPointR>
+               <id>SNCF2</id>
+               <idsNextA>SNCF3</idsNextA>
+               <idsNextR>SNCF1</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>La Plaine-Stade de France</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2054</id>
+                  <name>La Courneuve-Aubervilliers</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2103</id>
+                  <name>La Courneuve-Aubervilliers</name>
+               </geoPointR>
+               <id>SNCF3</id>
+               <idsNextA>SNCF4</idsNextA>
+               <idsNextR>SNCF2</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Aubervilliers</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1923</id>
+                  <name>Le Bourget</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2248</id>
+                  <name>Le Bourget</name>
+               </geoPointR>
+               <id>SNCF4</id>
+               <idsNextA>SNCF5</idsNextA>
+               <idsNextR>SNCF3</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Le Bourget</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1999</id>
+                  <name>Drancy</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2188</id>
+                  <name>Drancy</name>
+               </geoPointR>
+               <id>SNCF5</id>
+               <idsNextA>SNCF6</idsNextA>
+               <idsNextR>SNCF4</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Drancy</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2070</id>
+                  <name>Blanc-Mesnil</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2119</id>
+                  <name>Blanc-Mesnil</name>
+               </geoPointR>
+               <id>SNCF6</id>
+               <idsNextA>SNCF7</idsNextA>
+               <idsNextR>SNCF5</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Blanc-Mesnil</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>2056</id>
+                  <name>Aulnay-sous-Bois</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2105</id>
+                  <name>Aulnay-sous-Bois</name>
+               </geoPointR>
+               <id>SNCF7</id>
+               <idsNextA>SNCF13</idsNextA>
+               <idsNextA>SNCF16</idsNextA>
+               <idsNextR>SNCF6</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Aulnay Sous Bois</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1663</id>
+                  <name>Sevran-Beaudottes</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2507</id>
+                  <name>Sevran-Beaudottes</name>
+               </geoPointR>
+               <id>SNCF13</id>
+               <idsNextA>SNCF12</idsNextA>
+               <idsNextR>SNCF7</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Sevran Beaudottes</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1628</id>
+                  <name>Villepinte</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2508</id>
+                  <name>Villepinte</name>
+               </geoPointR>
+               <id>SNCF12</id>
+               <idsNextA>SNCF11</idsNextA>
+               <idsNextR>SNCF13</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Villepinte</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1777</id>
+                  <name>Parc des Expositions</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2387</id>
+                  <name>Parc des Expositions</name>
+               </geoPointR>
+               <id>SNCF11</id>
+               <idsNextA>SNCF10</idsNextA>
+               <idsNextR>SNCF12</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Parc des Expositions</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1706</id>
+                  <name>Aeroport Charles de Gaulle 1</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2451</id>
+                  <name>Aeroport Charles de Gaulle 1</name>
+               </geoPointR>
+               <id>SNCF10</id>
+               <idsNextA>SNCF9</idsNextA>
+               <idsNextR>SNCF11</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Aeroport Ch.De Gaulle 1</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>48431</id>
+                  <name>Aeroport Charles de Gaulle 2 TGV</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>48432</id>
+                  <name>Aeroport Charles de Gaulle 2 TGV</name>
+               </geoPointR>
+               <id>SNCF9</id>
+               <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <idsNextR>SNCF10</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Aeroport Ch.De Gaulle 2</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1664</id>
+                  <name>Sevran Livry</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2474</id>
+                  <name>Sevran Livry</name>
+               </geoPointR>
+               <id>SNCF16</id>
+               <idsNextA>SNCF15</idsNextA>
+               <idsNextR>SNCF7</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Sevran-Livry</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1693</id>
+                  <name>Vert-Galant</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2503</id>
+                  <name>Vert-Galant</name>
+               </geoPointR>
+               <id>SNCF15</id>
+               <idsNextA>SNCF14</idsNextA>
+               <idsNextR>SNCF16</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Vert-Galant</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1697</id>
+                  <name>Villeparisis</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2473</id>
+                  <name>Villeparisis</name>
+               </geoPointR>
+               <id>SNCF14</id>
+               <idsNextA>SNCF8</idsNextA>
+               <idsNextR>SNCF15</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Villeparisis Mitry</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1821</id>
+                  <name>Mitry-Claye</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2360</id>
+                  <name>Mitry-Claye</name>
+               </geoPointR>
+               <id>SNCF8</id>
+               <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <idsNextR>SNCF14</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Mitry-Claye</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1705</id>
+                  <name>Robinson</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2450</id>
+                  <name>Robinson</name>
+               </geoPointR>
+               <id>9</id>
+               <idsNextA>10</idsNextA>
+               <idsNextR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Robinson</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1942</id>
+                  <name>Fontenay-aux-Roses</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2197</id>
+                  <name>Fontenay-aux-Roses</name>
+               </geoPointR>
+               <id>10</id>
+               <idsNextA>11</idsNextA>
+               <idsNextR>9</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Fontenay aux Roses</name>
+            </stations>
+            <stations xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1660</id>
+                  <name>Sceaux</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2540</id>
+                  <name>Sceaux</name>
+               </geoPointR>
+               <id>11</id>
+               <idsNextA>12-22</idsNextA>
+               <idsNextR>10</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Sceaux</name>
+            </stations>
+         </ns2:return>
+      </ns2:getStationsResponse>
+   </soapenv:Body>
+</soapenv:Envelope>

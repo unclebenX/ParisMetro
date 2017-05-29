@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Body>
+      <ns2:getMissionResponse xmlns:ns2="http://wsiv.ratp.fr">
+         <ns2:return>
+            <ns1:argumentDate xmlns:ns1="http://wsiv.ratp.fr/xsd">201705211811</ns1:argumentDate>
+            <argumentLine xmlns="http://wsiv.ratp.fr/xsd">
+               <code>1</code>
+               <codeStif>100110001</codeStif>
+               <id>M1</id>
+               <image>m1.gif</image>
+               <name>La Défense / Château de Vincennes</name>
+               <realm>r</realm>
+               <reseau>
+                  <code>metro</code>
+                  <id>1-metro</id>
+                  <image>p_met.gif</image>
+                  <name>Métro</name>
+               </reseau>
+            </argumentLine>
+            <mission xmlns="http://wsiv.ratp.fr/xsd">
+               <id>M1</id>
+               <line>
+                  <code>1</code>
+                  <codeStif>100110001</codeStif>
+                  <id>M1</id>
+                  <image>m1.gif</image>
+                  <name>La Défense / Château de Vincennes</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>metro</code>
+                     <id>1-metro</id>
+                     <image>p_met.gif</image>
+                     <name>Métro</name>
+                  </reseau>
+               </line>
+               <stations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <stationsStops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+            </mission>
+         </ns2:return>
+      </ns2:getMissionResponse>
+   </soapenv:Body>
+</soapenv:Envelope>

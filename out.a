@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+   <soapenv:Body>
+      <ns2:getMissionsNextResponse xmlns:ns2="http://wsiv.ratp.fr">
+         <ns2:return>
+            <ns1:argumentDate xmlns:ns1="http://wsiv.ratp.fr/xsd">201705191058</ns1:argumentDate>
+            <argumentDirection xmlns="http://wsiv.ratp.fr/xsd">
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Charles-de-Gaulle. Mitry-Claye.</name>
+               <sens>A</sens>
+               <stationsEndLine>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>1821</id>
+                     <name>Mitry-Claye</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>2360</id>
+                     <name>Mitry-Claye</name>
+                  </geoPointR>
+                  <id>SNCF8</id>
+                  <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <idsNextR>SNCF14</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Mitry-Claye</name>
+               </stationsEndLine>
+               <stationsEndLine>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>48431</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>48432</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointR>
+                  <id>SNCF9</id>
+                  <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <idsNextR>SNCF10</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Aeroport Ch.De Gaulle 2</name>
+               </stationsEndLine>
+            </argumentDirection>
+            <argumentLine xmlns="http://wsiv.ratp.fr/xsd">
+               <code>B</code>
+               <codeStif>100111002</codeStif>
+               <id>RB</id>
+               <image>p_rer_b.gif</image>
+               <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+               <realm>r</realm>
+               <reseau>
+                  <code>rer</code>
+                  <id>2-rer</id>
+                  <image>p_rer.gif</image>
+                  <name>RER</name>
+               </reseau>
+            </argumentLine>
+            <argumentStation xmlns="http://wsiv.ratp.fr/xsd">
+               <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+               <geoPointA>
+                  <id>1865</id>
+                  <name>Lozere</name>
+               </geoPointA>
+               <geoPointR>
+                  <id>2332</id>
+                  <name>Lozere</name>
+               </geoPointR>
+               <id>30</id>
+               <idsNextA>31</idsNextA>
+               <idsNextR>29</idsNextR>
+               <line>
+                  <code>B</code>
+                  <codeStif>100111002</codeStif>
+                  <id>RB</id>
+                  <image>p_rer_b.gif</image>
+                  <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                  <realm>r</realm>
+                  <reseau>
+                     <code>rer</code>
+                     <id>2-rer</id>
+                     <image>p_rer.gif</image>
+                     <name>RER</name>
+                  </reseau>
+               </line>
+               <name>Lozere</name>
+            </argumentStation>
+            <missions xmlns="http://wsiv.ratp.fr/xsd">
+               <code>EPOL</code>
+               <direction>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Charles-de-Gaulle. Mitry-Claye.</name>
+                  <sens>A</sens>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>1821</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>2360</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointR>
+                     <id>SNCF8</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF14</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Mitry-Claye</name>
+                  </stationsEndLine>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>48431</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>48432</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointR>
+                     <id>SNCF9</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF10</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Aeroport Ch.De Gaulle 2</name>
+                  </stationsEndLine>
+               </direction>
+               <id>EPOL</id>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>1865</id>
+                     <name>Lozere</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>2332</id>
+                     <name>Lozere</name>
+                  </geoPointR>
+                  <id>30</id>
+                  <idsNextA>31</idsNextA>
+                  <idsNextR>29</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Lozere</name>
+               </stations>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>48431</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>48432</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointR>
+                  <id>SNCF9</id>
+                  <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <idsNextR>SNCF10</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Aeroport Ch.De Gaulle 2</name>
+               </stations>
+               <stationsDates>201705191107</stationsDates>
+               <stationsMessages>11:07</stationsMessages>
+               <stationsPlatforms>2</stationsPlatforms>
+               <stationsStops>true</stationsStops>
+            </missions>
+            <missions xmlns="http://wsiv.ratp.fr/xsd">
+               <code>WTWP</code>
+               <direction>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Charles-de-Gaulle. Mitry-Claye.</name>
+                  <sens>A</sens>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>1821</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>2360</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointR>
+                     <id>SNCF8</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF14</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Mitry-Claye</name>
+                  </stationsEndLine>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>48431</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>48432</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointR>
+                     <id>SNCF9</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF10</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Aeroport Ch.De Gaulle 2</name>
+                  </stationsEndLine>
+               </direction>
+               <id>WTWP</id>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>1865</id>
+                     <name>Lozere</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>2332</id>
+                     <name>Lozere</name>
+                  </geoPointR>
+                  <id>30</id>
+                  <idsNextA>31</idsNextA>
+                  <idsNextR>29</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Lozere</name>
+               </stations>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>1775</id>
+                     <name>Palaiseau</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>2385</id>
+                     <name>Palaiseau</name>
+                  </geoPointR>
+                  <id>32</id>
+                  <idsNextA>15</idsNextA>
+                  <idsNextR>31</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Palaiseau</name>
+               </stations>
+               <stationsDates>201705191108</stationsDates>
+               <stationsMessages>Train sans arrêt</stationsMessages>
+               <stationsPlatforms>2</stationsPlatforms>
+               <stationsStops>false</stationsStops>
+            </missions>
+            <missions xmlns="http://wsiv.ratp.fr/xsd">
+               <code>EPOL</code>
+               <direction>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Charles-de-Gaulle. Mitry-Claye.</name>
+                  <sens>A</sens>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>1821</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>2360</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointR>
+                     <id>SNCF8</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF14</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Mitry-Claye</name>
+                  </stationsEndLine>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>48431</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>48432</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointR>
+                     <id>SNCF9</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF10</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Aeroport Ch.De Gaulle 2</name>
+                  </stationsEndLine>
+               </direction>
+               <id>EPOL</id>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>1865</id>
+                     <name>Lozere</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>2332</id>
+                     <name>Lozere</name>
+                  </geoPointR>
+                  <id>30</id>
+                  <idsNextA>31</idsNextA>
+                  <idsNextR>29</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Lozere</name>
+               </stations>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>48431</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>48432</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointR>
+                  <id>SNCF9</id>
+                  <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <idsNextR>SNCF10</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Aeroport Ch.De Gaulle 2</name>
+               </stations>
+               <stationsDates>201705191123</stationsDates>
+               <stationsMessages>11:23</stationsMessages>
+               <stationsPlatforms>2</stationsPlatforms>
+               <stationsStops>true</stationsStops>
+            </missions>
+            <missions xmlns="http://wsiv.ratp.fr/xsd">
+               <code>EPOL</code>
+               <direction>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Charles-de-Gaulle. Mitry-Claye.</name>
+                  <sens>A</sens>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>1821</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>2360</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointR>
+                     <id>SNCF8</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF14</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Mitry-Claye</name>
+                  </stationsEndLine>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>48431</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>48432</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointR>
+                     <id>SNCF9</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF10</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Aeroport Ch.De Gaulle 2</name>
+                  </stationsEndLine>
+               </direction>
+               <id>EPOL</id>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>1865</id>
+                     <name>Lozere</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>2332</id>
+                     <name>Lozere</name>
+                  </geoPointR>
+                  <id>30</id>
+                  <idsNextA>31</idsNextA>
+                  <idsNextR>29</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Lozere</name>
+               </stations>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>48431</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>48432</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointR>
+                  <id>SNCF9</id>
+                  <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <idsNextR>SNCF10</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Aeroport Ch.De Gaulle 2</name>
+               </stations>
+               <stationsDates>201705191138</stationsDates>
+               <stationsMessages>11:38</stationsMessages>
+               <stationsPlatforms>2</stationsPlatforms>
+               <stationsStops>true</stationsStops>
+            </missions>
+            <missions xmlns="http://wsiv.ratp.fr/xsd">
+               <code>EPOL</code>
+               <direction>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Charles-de-Gaulle. Mitry-Claye.</name>
+                  <sens>A</sens>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>1821</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>2360</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointR>
+                     <id>SNCF8</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF14</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Mitry-Claye</name>
+                  </stationsEndLine>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>48431</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>48432</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointR>
+                     <id>SNCF9</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF10</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Aeroport Ch.De Gaulle 2</name>
+                  </stationsEndLine>
+               </direction>
+               <id>EPOL</id>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>1865</id>
+                     <name>Lozere</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>2332</id>
+                     <name>Lozere</name>
+                  </geoPointR>
+                  <id>30</id>
+                  <idsNextA>31</idsNextA>
+                  <idsNextR>29</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Lozere</name>
+               </stations>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>48431</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>48432</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointR>
+                  <id>SNCF9</id>
+                  <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <idsNextR>SNCF10</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Aeroport Ch.De Gaulle 2</name>
+               </stations>
+               <stationsDates>201705191153</stationsDates>
+               <stationsMessages>11:53</stationsMessages>
+               <stationsPlatforms>2</stationsPlatforms>
+               <stationsStops>true</stationsStops>
+            </missions>
+            <missions xmlns="http://wsiv.ratp.fr/xsd">
+               <code>EPOL</code>
+               <direction>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Charles-de-Gaulle. Mitry-Claye.</name>
+                  <sens>A</sens>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>1821</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>2360</id>
+                        <name>Mitry-Claye</name>
+                     </geoPointR>
+                     <id>SNCF8</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF14</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Mitry-Claye</name>
+                  </stationsEndLine>
+                  <stationsEndLine>
+                     <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <geoPointA>
+                        <id>48431</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointA>
+                     <geoPointR>
+                        <id>48432</id>
+                        <name>Aeroport Charles de Gaulle 2 TGV</name>
+                     </geoPointR>
+                     <id>SNCF9</id>
+                     <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                     <idsNextR>SNCF10</idsNextR>
+                     <line>
+                        <code>B</code>
+                        <codeStif>100111002</codeStif>
+                        <id>RB</id>
+                        <image>p_rer_b.gif</image>
+                        <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                        <realm>r</realm>
+                        <reseau>
+                           <code>rer</code>
+                           <id>2-rer</id>
+                           <image>p_rer.gif</image>
+                           <name>RER</name>
+                        </reseau>
+                     </line>
+                     <name>Aeroport Ch.De Gaulle 2</name>
+                  </stationsEndLine>
+               </direction>
+               <id>EPOL</id>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>1865</id>
+                     <name>Lozere</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>2332</id>
+                     <name>Lozere</name>
+                  </geoPointR>
+                  <id>30</id>
+                  <idsNextA>31</idsNextA>
+                  <idsNextR>29</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Lozere</name>
+               </stations>
+               <stations>
+                  <direction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <geoPointA>
+                     <id>48431</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointA>
+                  <geoPointR>
+                     <id>48432</id>
+                     <name>Aeroport Charles de Gaulle 2 TGV</name>
+                  </geoPointR>
+                  <id>SNCF9</id>
+                  <idsNextA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="1" />
+                  <idsNextR>SNCF10</idsNextR>
+                  <line>
+                     <code>B</code>
+                     <codeStif>100111002</codeStif>
+                     <id>RB</id>
+                     <image>p_rer_b.gif</image>
+                     <name>Charles-de-Gaulle. Mitry-Claye. / Robinson. Saint-Rémy-lès-Chevreuse.</name>
+                     <realm>r</realm>
+                     <reseau>
+                        <code>rer</code>
+                        <id>2-rer</id>
+                        <image>p_rer.gif</image>
+                        <name>RER</name>
+                     </reseau>
+                  </line>
+                  <name>Aeroport Ch.De Gaulle 2</name>
+               </stations>
+               <stationsDates>201705191208</stationsDates>
+               <stationsMessages>12:08</stationsMessages>
+               <stationsPlatforms>2</stationsPlatforms>
+               <stationsStops>true</stationsStops>
+            </missions>
+         </ns2:return>
+      </ns2:getMissionsNextResponse>
+   </soapenv:Body>
+</soapenv:Envelope>
